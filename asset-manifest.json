@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/DoctorProject/static/css/main.d2ddbcea.css",
+    "main.js": "/DoctorProject/static/js/main.a238f4ed.js",
+    "static/media/D2.jpg": "/DoctorProject/static/media/D2.2a281000e75da67fcac0.jpg",
+    "static/media/D1.jpg": "/DoctorProject/static/media/D1.3349d2b885d6139e4fd3.jpg",
+    "static/media/D3.jpg": "/DoctorProject/static/media/D3.0155b8fb295330e2361b.jpg",
+    "static/media/D5.jpg": "/DoctorProject/static/media/D5.bc68a1ad33a600e75452.jpg",
+    "static/media/D6.jpg": "/DoctorProject/static/media/D6.6d28e3422a6d342304d6.jpg",
+    "static/media/D4.jpg": "/DoctorProject/static/media/D4.462a793ff716a37fe54d.jpg",
+    "static/media/about.webp": "/DoctorProject/static/media/about.5bf93cf67616fc624d70.webp",
+    "static/media/Motto.jpg": "/DoctorProject/static/media/Motto.a2c89c4fdc5efa9d2dcb.jpg",
+    "static/media/Subscribe.jpg": "/DoctorProject/static/media/Subscribe.c617c228061e7c339834.jpg",
+    "static/media/blog-1.png": "/DoctorProject/static/media/blog-1.042fb4a2e93645059b8a.png",
+    "static/media/blog-3.png": "/DoctorProject/static/media/blog-3.5acb6d856e86ea636cfd.png",
+    "static/media/doctor.png": "/DoctorProject/static/media/doctor.1f80713dbb3cbed3f68a.png",
+    "static/media/graph-img.svg": "/DoctorProject/static/media/graph-img.b5b2110dc121ae44945c6d6eccc8ca66.svg",
+    "static/media/footer-bg.jpg": "/DoctorProject/static/media/footer-bg.c4f5ef20b1368819b55e.jpg",
+    "static/media/doctor-visit.png": "/DoctorProject/static/media/doctor-visit.2fbe63acbfcf4586115d.png",
+    "static/media/blog-2.png": "/DoctorProject/static/media/blog-2.b7b7c5fee10865b7d75c.png",
+    "static/media/S3.png": "/DoctorProject/static/media/S3.569ca40f0a88e5f2ebb7.png",
+    "static/media/S4.png": "/DoctorProject/static/media/S4.46561f3a95102d91e1ba.png",
+    "static/media/S2.png": "/DoctorProject/static/media/S2.72154c5de342397e3ed6.png",
+    "static/media/S5.png": "/DoctorProject/static/media/S5.89a2e2d9c9754a7b6bdc.png",
+    "static/media/S6.png": "/DoctorProject/static/media/S6.4819cf63946eeacc56d3.png",
+    "static/media/administrator.png": "/DoctorProject/static/media/administrator.024e9454d531b2c24fe2.png",
+    "static/media/pharmacy.png": "/DoctorProject/static/media/pharmacy.e89c5ccce01d984d7a20.png",
+    "static/media/logo.svg": "/DoctorProject/static/media/logo.ca2d2ae4aed26f81835a40a2dd262cc6.svg",
+    "static/media/slick.svg": "/DoctorProject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/DoctorProject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/DoctorProject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/DoctorProject/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/DoctorProject/index.html",
+    "main.d2ddbcea.css.map": "/DoctorProject/static/css/main.d2ddbcea.css.map",
+    "main.a238f4ed.js.map": "/DoctorProject/static/js/main.a238f4ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ddbcea.css",
+    "static/js/main.a238f4ed.js"
+  ]
+}
